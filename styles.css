@@ -27,5 +27,6 @@ h3 {
 }
 
 .circular {
-  border-radius: 100%;
+
+  width: 50%
 }
